@@ -116,7 +116,7 @@ echo " "
 os=$(uname -r)
 echo "Your OS is $os"
 echo " "
-sleep 0.5
+sleep 1
 
 setup=$(neofetch)
 echo "Your PC stats:"
